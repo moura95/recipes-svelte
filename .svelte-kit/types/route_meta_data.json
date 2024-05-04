@@ -1,0 +1,18 @@
+{
+	"/": [],
+	"/categorias/[slug]": [
+		"src/routes/categorias/[slug]/+server.ts"
+	],
+	"/ingredientes": [
+		"src/routes/ingredientes/+server.ts"
+	],
+	"/ingredientes/[id]": [
+		"src/routes/ingredientes/[id]/+server.ts"
+	],
+	"/receitas": [
+		"src/routes/receitas/+server.ts"
+	],
+	"/receitas/[id]": [
+		"src/routes/receitas/[id]/+server.ts"
+	]
+}
